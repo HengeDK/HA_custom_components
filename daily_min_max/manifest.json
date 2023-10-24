@@ -1,0 +1,12 @@
+{
+  "domain": "daily_min_max",
+  "name": "Daily Min/Max",
+  "documentation": "https://github.com/HengeDK/HA_custom_components",
+  "issue_tracker": "https://github.com/HengeDK/HA_custom_components/issues",
+  "codeowners": [
+    "@philsson"
+  ],
+  "quality_scale": "internal",
+  "iot_class": "local_push",
+  "version": "1.0"
+}
